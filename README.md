@@ -21,3 +21,6 @@ If you'd like, you can use the below as a simplified template for your submissio
  * _Responsible Agency:_
 
 That's it! If you have other questions, see http://climatemirror.org
+
+## Mirroring a Dataset
+If you would like to start mirroring a dataset, assign the issue to yourself so that we know who is handling it. When the mirror is online, leave a comment on the issue indicating the URL of the new mirror. If you know of a mirror to an existing dataset, please leave the mirror URL as a comment. Tools for mirroring data can be found at http://climatemirror.org
