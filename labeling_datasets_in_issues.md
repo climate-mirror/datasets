@@ -22,10 +22,17 @@ Ideally, marking any of the status labels except _Status: No Mirrors_ is accompa
 ## Type Labels
 *Objective*: Type labels are designed to help people filter by what technology/expertise is required in order to mirror a dataset/
 
- * _Type: Bulk Downloadable_:
- * _Type: Requires Contacting Agency_:
- * _Type: Requires Crawling_:
+ * _Type: Bulk Downloadable_: Indicates a dataset that can easily be downloaded using FTP clients, or is some other form of a directory tree (HTTP, etc)
+ * _Type: Requires Contacting Agency_: Indicates a dataset that is mostly locked behind a data portal, but without a good way to access the underlying data.
+ * _Type: Requires Crawling_: Indicates a dataset that requires a mechanism to crawl and download data (either a spider, or something like WebRecorder)
+ * _Type: Requires Custom Scripting_: Indicates a dataset that can be accessed by tweaking URL parameters, for example, where a custom script to iterate through those parameters would need to be written.
  
 ## Priority Labels
+*Objective*: To help people choose which datasets are the most important to obtain. In this case, we aren't making much use of these labels yet due to their subjective nature. 
 
+ * _Priority: Low_: The only current priority label, used to indicate when a dataset can wait for mirroring until after Jan. 20.
+ 
 ## Other labels
+These labels server minor purposes, and may need tweaking if usage is inconsistent, but are here now.
+ * _Owner: State-Level_: To indicate when a dataset isn't in federal custody, and is therefore lower risk
+ * _Reason: Not Federal Data_: Used when closing an issue for a dataset that isn't yet mirrored to indicate that it won't be mirrored because it's not deemed at risk by being in state hands (for example, the California Data Exchange Center (CDEC) issue was closed with this label)
