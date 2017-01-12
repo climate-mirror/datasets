@@ -10,4 +10,16 @@ To start, search the issues in this repository for keywords related to your data
 5. If you are working on mirroring the data, assign the issue to yourself. If not, leave it blank.
 6. Depending on how many mirrors you provided in the links, assign the label "No Mirrors", "One Mirror" or "Two or More Mirrors" to the issue to help people filter by datasets that need mirroring.
 
+## New Dataset Submission Template
+If you'd like, you can use the below as a simplified template for your submission:
+
+*
+Dataset Homepage:
+Dataset Bulk Download Link (if available):
+Mirror URLs:
+Mirrored By:
+Size:
+Responsible Agency:
+*
+
 That's it! If you have other questions, see http://climatemirror.org
