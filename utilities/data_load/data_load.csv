@@ -1,0 +1,106 @@
+name,org,desc_url,download_url,file_types,size,status
+Carbon Dioxide Information Analysis Center,DOE/ORNL,http://cdiac.ornl.gov,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/,,2.2 GB (8.2ka - contributions),Done
+GISTEMP,NASA,http://data.giss.nasa.gov/gistemp/,http://data.giss.nasa.gov/pub/gistemp/,.netcdf,1,Done
+,DOE/BNL,http://www.archive.arm.gov,,,,
+CarbonTracker,NOAA,http://www.esrl.noaa.gov/psd/data/gridded/data.carbontracker.html,ftp://aftp.cmdl.noaa.gov/products/carbontracker,.nc,other_gauss ~ 22,Done
+NCEP/NCAR Reanalysis,NOAA,http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.html,ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis/,,,In process as of 2016-12-13
+Planetary Data System,NASA,https://pds.nasa.gov/,,,,
+Sea Level Trends,NOAA,https://tidesandcurrents.noaa.gov/sltrends/sltrends.html,,,,
+Billion-Dollar Weather and Climate Disasters,NOAA,https://www.ncdc.noaa.gov/billions/,,,,
+NOAA NCDC Climate Data Online,NOAA,https://www.ncdc.noaa.gov/cdo-web/,ftp://ftp.ncdc.noaa.gov/pub/data/,,,
+NCEI Land-Based Station Datasets,NOAA,https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets,,,,
+Paleoclimatology Datasets,NOAA,https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/datasets,ftp://ftp.ncdc.noaa.gov/pub/data/paleo/,multiple,120 (FTP Site),In progress
+NCEI Satellite Datasets,NOAA,https://www.ncdc.noaa.gov/data-access/satellite-data/satellite-data-access-datasets,,,,In progress as of 2016-12-19
+Climate Extremes Index,NOAA,https://www.ncdc.noaa.gov/extremes/cei/graph/us/1/01-12,https://www.ncdc.noaa.gov/extremes/cei/us/1/01-12/data.csv,.csv,0,Done
+Global Historical Climate Network - Daily,NOAA,https://www.ncdc.noaa.gov/oa/climate/ghcn-daily/,ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/,".txt, mostly csv",,In progress
+Storm Events Database,NOAA,https://www.ncdc.noaa.gov/stormevents/details.jsp,ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/,.csv,,In process as of 2016-12-14
+Climatological Rankings wer,NOAA,https://www.ncdc.noaa.gov/temp-and-precip/climatological-rankings/,https://www.ncdc.noaa.gov/temp-and-precip/climatological-rankings/download.csv?parameter=tavg&state=110&div=0&month=11&periods[]=1&year=2013,,,
+National Interagency Fire Center,NIFC,https://www.nifc.gov/fireInfo/fireInfo_statistics.html,,,"Depends on Crawl, < 1 GB",Done
+National Snow and Ice Data Center,NSIDC,https://nsidc.org/data,,,,
+Ocean Acidification Data Portal,NOAA,https://www.nodc.noaa.gov/oceanacidification/stewardship/data_assets.html,,,,"Pulled by FTP, hosting on Amazon Web Services"
+NASA Earth Science Satellites ,NASA,http://daac.gsfc.nasa.gov,,,,
+NASA Climate Consensus,NASA,http://climate.nasa.gov/scientific-consensus/,,,,CLAIMED 2016-12-14 Scraping content recursively and completely. Will be made available as offline-viewable content.
+EPA Facility Level GHG emissions,EPA,https://www.epa.gov/ghgreporting/ghg-reporting-program-data-sets,,,,Done
+NOAA Global Monitoring Division,NOAA,http://www.esrl.noaa.gov/gmd/dv/ftpdata.html,ftp://aftp.cmdl.noaa.gov/,,,Full backup will be mirrored to online storage.
+USGS National Water Information System,USGS,http://waterdata.usgs.gov/nwis,,Txt,,"CLAIMED 2016-12-15, In process"
+Water Quality Portal,NWQMC,https://www.waterqualitydata.us/,,,,In progress.  Begun at 2158 hours PST8PDT on 22 December 2016.
+Science Base,USGS,https://www.sciencebase.gov/catalog/,,,,
+California Data Exchange Center,California State Gov,http://cdec.water.ca.gov/,,,,
+Goddard Earth Sciences Data and Information Services Center,NASA,http://daac.gsfc.nasa.gov/,,,,
+Climate Change Atlas,US Forest Service,http://www.fs.fed.us/nrs/atlas/,,,,
+NorWEST Stream Temperature Database,US Forest Service,http://www.fs.fed.us/rm/boise/AWAE/projects/NorWeST.html,,,,
+NOAA National Data Buoy Center,NOAA,http://www.ndbc.noaa.gov/,,,,
+USGS National Landcover Database,USGS,http://www.mrlc.gov/,,,,CLAIMED 2016-12-14
+NASS Cropland Data Layer,USDA-NASS,https://nassgeodata.gmu.edu/CropScape/,,,,
+NASA Sea Level Change Portal Data,NASA,https://sealevel.nasa.gov/data/data-search/,,,,
+National Water and Climate Center,USDA-NRCS,http://www.wcc.nrcs.usda.gov,,,,
+Oak Ridge National Laboratory DAAC,NASA-ESDIS,https://daac.ornl.gov/,https://daac.ornl.gov/get_data.shtml,,,
+National Air Toxics Assessment,EPA,https://www.epa.gov/national-air-toxics-assessment,https://www.epa.gov/national-air-toxics-assessment/2011-nata-assessment-results#nationwide,,,
+Biological and Chemical Oceanography Data Management Office,NSF OCE & PLR,http://www.bco-dmo.org/,http://www.bco-dmo.org/data,"txt, csv, tsv, Matlab, netcdf",,
+TOGA_TAO via PMEL,NOAA,http://www.pmel.noaa.gov/tao/,http://www.pmel.noaa.gov/tao/data_deliv/frames/main.html,,,
+"OceanColor Web, Ocean Biology Processing Group",NASA,http://oceancolor.gsfc.nasa.gov/cms/,http://oceandata.sci.gsfc.nasa.gov/,"NetCDF4, HDF4",,
+NOAA's National Centers for Environmental Information (NCEI) ,NOAA,https://www.ncdc.noaa.gov,ftp://eclipse.ncdc.noaa.gov/pub,NetCDF,,"CLAIMED 2016-12-14. So far, 40gb of data has been downloaded. I am not sure how big the entire data set is. I will provide regular updates in the meantime."
+IOOS Ocean Acidification Portal,,,http://www.ipacoa.org/,,,
+"West Coast Ocean Data Portal (regional, not federal)",,,http://portal.westcoastoceans.org/about/,,,
+MACA Downscaled Climate Data for CONUS,NKN,http://climate.nkn.uidaho.edu/MACA/,http://climate.nkn.uidaho.edu/MACA/,"NetCDF, CSV, OPeNDAP",~10K GB,
+Jason SAT data,,,http://sealevel.jpl.nasa.gov/missions/jason3/,,,
+Historical METDATA/gridMET,NKN,http://climate.nkn.uidaho.edu/METDATA/,http://climate.nkn.uidaho.edu/METDATA/,"NetCDF, CSV, OPeNDAP",~5K GB,
+Global Change Information System,USGCRP,http://data.globalchange.gov,,JSON,,CLAIMED 2016-12-15
+ORNL Daymet,ORNL,https://daymet.ornl.gov/,https://daac.ornl.gov/cgi-bin/dataset_lister.pl?p=32,,,in progress
+Climate.gov (data catalog),NOAA,https://www.climate.gov/,,"NetCDF, CSV, shp, kml,json",,
+STORET,EPA,,https://www.epa.gov/waterdata/storage-and-retrieval-and-water-quality-exchange,,,
+National Environmental Health Tracking Portal,CDC,https://ephtracking.cdc.gov/showHome.action,https://ephtracking.cdc.gov/DataExplorer,excel,small,
+Dataset Gallery,NOAA,https://www.climate.gov/maps-data/datasets,,,,
+LANDSAT Archive Gallery,USGS,https://earthexplorer.usgs.gov/,,GeoTIFF,Large (hundreds TB),
+NOAA Land Based Datasets,NOAA/NWS,https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets,,,,
+Precipitation-Frequency Data Server,NOAA,http://hdsc.nws.noaa.gov/hdsc/pfds/,,"pdf, .csv, ",,Backed HTTP portion of a few PDFS and a much larger FTP site with per state data files at ftp://hdsc.nws.noaa.gov/pub
+NOAA Severe Weather Data,NOAA/NWS,https://www.ncdc.noaa.gov/data-access/severe-weather,,,,
+NOAA Marine/Ocean Data,NOAA/NWS,https://www.ncdc.noaa.gov/data-access/marineocean-data,,,,
+NSF Arctic Data Center,NSF,https://arcticdata.io/,https://arcticdata.io/catalog/,"NetCDF, CSV, shp, TIFF, JPEG, wav, Excel, and many others ","5TB, soon to be 10TB","The service is operated at UC Santa Barbara and data are all stored on non-governmental servers there, so at this point should be secure from federal policy changes. Replication of data to NCEI is in the plans. A copy of all data are also on Amazon's S3 service in a private bucket for the time being."
+NOAA Hurricane Data,NOAA,http://www.aoml.noaa.gov/hrd/data_sub/,,,,
+,NOAA,https://catalog.data.gov/dataset/u-s-hourly-precipitation-data,ftp://ftp.ncdc.noaa.gov/pub/data/hourly_precip-3240/,tar.Z,unknown,Mirrored and Signed
+Pesticide National Synthesis Project,USGS NAWQA: Pesticide National Synthesis Project,https://water.usgs.gov/nawqa/pnsp/usage/maps/county-level/,,txt,1,
+LP DAAC,NASA & USGS,https://lpdaac.usgs.gov/dataset_discovery,unsure,.hdf,1000+,
+,NASA,https://modis.gsfc.nasa.gov/data/dataprod/,https://modis.gsfc.nasa.gov/data/dataprod/,,,
+,NSF,http://www.rvdata.us,http://www.rvdata.us/catalog,Varies,Unknown,
+,FSU (Florida State University),http://samos.coaps.fsu.edu,http://samos.coaps.fsu.edu/html/nav.php?s=2,"*.nc, *.asc",Unknown,
+,NOAA,https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-sea-surface-temperature-whoi-version-1-0,https://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-sea-surface-temperature-whoi-version-1-0/resource/2b1e90b2-82bd-43e1-bc11-a339289e56f9,NetCDF,,
+,US EIA,https://www.eia.gov/totalenergy/data/monthly/index.php#coal,https://www.eia.gov/totalenergy/data/monthly/index.php#coal,"pdf, xls, csv",,
+,NEPOOL GIS,"The New England Power Pool Generation Information System (NEPOOL GIS) issues and tracks certificates for all MWh of generation and load produced in the ISO New England control area, as well as imported MWh from adjacent control areas. The NEPOOL GIS offers a set of Public Reports which describe activity within the system at an aggregate level. The NEPOOL GIS does not disclose account holder specific data to the public.","The New England Power Pool Generation Information System (NEPOOL GIS) issues and tracks certificates for all MWh of generation and load produced in the ISO New England control area, as well as imported MWh from adjacent control areas",,,
+,California Environmental Protection Agency,https://www.arb.ca.gov/cc/reporting/ghg-rep/reported-data/ghg-reports.htm,,Excel (xlsx),<1.5 GB,Complete
+,NASA,https://pmm.nasa.gov/data-access/downloads,https://registration.pps.eosdis.nasa.gov/registration/,,,
+,GSA,Climate Risks Study for Telecommunications & Data Center Services (2014),http://www.globalchange.gov/browse/federal-adaptation-resources/built-infrastructure#Telecom,PDF,4 GB,
+,NASA,https://ghrc.nsstc.nasa.gov/hydro/search.pl,,,,
+,NASA,https://data.nasa.gov/data?category=Earth%20Science&search=&type=,,,,
+,NASA,https://eosweb.larc.nasa.gov/projects-supported-list,https://eosweb.larc.nasa.gov/datapool,,,
+,NASA,https://eosweb.larc.nasa.gov/cgi-bin/sse/sse.cgi,,,,
+,NASA,http://gcmd.nasa.gov/KeywordSearch/Keywords.do?Portal=GCMD&KeywordPath=Parameters%7CHome&MetadataType=0&Columns=0#maincontent,,,,
+,NASA,http://oceandata.sci.gsfc.nasa.gov/,,,,
+,NASA,https://pmm.nasa.gov/data-access/downloads,https://registration.pps.eosdis.nasa.gov/registration/,,,
+Coupled Model Intercomparison Project ,,http://cmip-pcmdi.llnl.gov/cmip5/data_portal.html,,,,
+,US Energy Information Administration,www.eia.gov,,Excel spreadsheets,No Idea.  Huge ,
+,USGS,http://waterdata.usgs.gov/,,,,
+,DOE,http://ameriflux.lbl.gov/,ftp://cdiac.ornl.gov/pub/ameriflux/data/,"csv, cdf, tar.gz, txt",55 GB,Needs confirmation
+,USGS,http://energy.usgs.gov/EnvironmentalAspects/EnvironmentalAspectsofEnergyProductionandUse/ProducedWaters.aspx#3822349-data,,".xlsx, .csv .Rdata",1 GB,
+,NOAA/NGDC,https://www.ngdc.noaa.gov/metadata,https://www.ngdc.noaa.gov/metadata,"XML, KML, CSV, others",Unknown,
+,EPA,https://www.epa.gov/ejscreen,ftp://newftp.epa.gov/EJSCREEN/,".csv, .pdf, .txt",1GB,Complete
+,National Ecological Observatory Network (NEON),www.neonscience.org,data.neonscience.org,"CSV, XML",130,Complete
+,EPA,SEMS (Superfund Enterprise Management System),https://www.epa.gov/superfund/superfund-data-and-reports,"csv, pdfs ",?,Complete
+The many sets listed on these sites,NOAA mostly,http://research.bpcrc.osu.edu/Icecore/ ,http://research.bpcrc.osu.edu/Icecore/data/,,,
+,NOAA,https://www.ncdc.noaa.gov/cdo/f?p=518:1:0:::APP:PROXYTOSEARCH:7,,,,
+,EPA,AIRS Database. Air quality data ,Http,,1E+11,
+,NASA,http://climate.nasa.gov/scientific-consensus/,,,,Done
+,USBR,https://cida.usgs.gov/gdp/,ftp://gdo-dcp.ucllnl.org/pub/dcp/archive/,compressed netCDF,2000,Archive size is a very rough estimate. At least some of the content is duplicated at the USGS Geo Data Portal: https://cida.usgs.gov/gdp/
+,NOAA HOMR (Historical Observing Metadata Repository),https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/coop-stations.txt,text,0.05,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt,text,0.008,Started
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,ftp://ftp.ncdc.noaa.gov/pub/data/globaldatabank/monthly/stage3/recommended/results/INVENTORY_monthly_merged_stage3,text,0.005,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/asos-stations.txt,text,0.0002,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/lcd-stations.txt,text,0.02,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/crn-stations.txt,text,0.03,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/rcrn-stations.txt,text,0.01,Done
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/alrcrn-stations.txt,text,0.004,Done
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,ftp://ftp.ncdc.noaa.gov/pub/data/ushcn/v2.5/*,"tar.gz, text",0.052,
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/nexrad-stations.txt,text,0.03,Done
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,https://www.ncdc.noaa.gov/homr/file/awos-stations.txt,text,0.002,Done
+,NOAA HOMR,https://www.ncdc.noaa.gov/homr/,ftp://ftp0.ncdc.noaa.gov/pub/data/igra/v2beta/igra2-station-list.txt,text,?,
+Snow Telemetry (SNOTEL),NRCS,http://www.wcc.nrcs.usda.gov/snow/,")https://wcc.sc.egov.usda.gov/nwcc/tabget (Data can be downloaded by subbing in state name, station ID, and variable in the following url: https://wcc.sc.egov.usda.gov/reportGenerator/view_csv/customSingleStationReport/daily/NA::SNTL%7Cid=%22%22%7Cname/POR_BEGIN,POR_END/PREC::value",Flat files (.csv),~1 GB?,

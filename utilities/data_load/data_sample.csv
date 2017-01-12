@@ -1,0 +1,3 @@
+name,org,desc_url,download_url,file_types,size,status
+GISTEMP,NASA,http://data.giss.nasa.gov/gistemp/,http://data.giss.nasa.gov/pub/gistemp/,.netcdf,1,Done
+,DOE/BNL,http://www.archive.arm.gov,,,,
