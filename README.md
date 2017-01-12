@@ -13,13 +13,11 @@ To start, search the issues in this repository for keywords related to your data
 ## New Dataset Submission Template
 If you'd like, you can use the below as a simplified template for your submission:
 
-*
-Dataset Homepage:
-Dataset Bulk Download Link (if available):
-Mirror URLs:
-Mirrored By:
-Size:
-Responsible Agency:
-*
+_Dataset Homepage:_
+_Dataset Bulk Download Link (if available):_
+_Mirror URLs:_
+_Mirrored By:_
+_Size:_
+_Responsible Agency:_
 
 That's it! If you have other questions, see http://climatemirror.org
