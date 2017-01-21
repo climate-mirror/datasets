@@ -2,9 +2,17 @@
 This repository is for tracking progress on climate dataset mirroring. It uses this site's [issues tracker](https://github.com/climate-mirror/datasets/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to keep track of progress on mirroring climate datasets. Each dataset will have its own issue for discussion of mirroring, as well as location of mirrors and who is doing the work.
 
 In this document:
- 1. [Contributing a New Dataset](#contributing-a-new-dataset)
- 2. [New Dataset Submission Template](#new-dataset-submission-template)
- 3. [Mirroring a Dataset](#mirroring-a-dataset)
+ 1. [Mirroring a Dataset](#mirroring-a-dataset)
+ 2. [Contributing a New Dataset](#contributing-a-new-dataset)
+ 3. [New Dataset Submission Template](#new-dataset-submission-template)
+ 
+## Mirroring a Dataset
+If you would like to start mirroring a dataset, assign the issue to yourself so that we know who is handling it. When the mirror is online, leave a comment on the issue indicating the URL of the new mirror. If you know of a mirror to an existing dataset, please leave the mirror URL as a comment. Tools for mirroring data can be found at http://climatemirror.org.
+
+When choosing a dataset:
+ * Datasets labeled "[Status: No Mirrors](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors")" are most vulnerable still: 
+ * Datasets with labels for ["Status: One Mirror" or "Status: Offline Mirror"](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors") are less vulnerable, but could still use copying.
+ * Datasets with labels for "Status: Two or More Mirrors" do not currently need more mirrors in comparison to the others, though if you would prefer to mirror one of these datasets, it is still helpful!
 
 ## Contributing a New Dataset
 To start, search the issues in this repository for keywords related to your dataset to see if it is already being handled. If there is not an open issue for the dataset already, create a new issue for it and include the following:
@@ -26,11 +34,3 @@ If you'd like, you can use the below as a simplified template for your submissio
  * _Responsible Agency:_
 
 That's it! If you have other questions, see http://climatemirror.org
-
-## Mirroring a Dataset
-If you would like to start mirroring a dataset, assign the issue to yourself so that we know who is handling it. When the mirror is online, leave a comment on the issue indicating the URL of the new mirror. If you know of a mirror to an existing dataset, please leave the mirror URL as a comment. Tools for mirroring data can be found at http://climatemirror.org.
-
-When choosing a dataset:
- * Datasets labeled "[Status: No Mirrors](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors")" are most vulnerable still: 
- * Datasets with labels for ["Status: One Mirror" or "Status: Offline Mirror"](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors") are less vulnerable, but could still use copying.
- * Datasets with labels for "Status: Two or More Mirrors" do not currently need more mirrors in comparison to the others, though if you would prefer to mirror one of these datasets, it is still helpful!
