@@ -1,6 +1,6 @@
 ### New Dataset
 
-Please fill out the form so we can easily organise the issues and put a priority on certain data. The title should reflect the dataset you want us to save.
+Please fill out the [New Issue](https://github.com/climate-mirror/datasets/issues/new) form so we can easily organise the issues and put a priority on certain data. The title should reflect the dataset you want us to save. In the body, please include the following information.
 
 * *Agency*: 
 * *Agency Division*:
