@@ -10,7 +10,7 @@ In this document:
 If you would like to start mirroring a dataset, assign the issue to yourself so that we know who is handling it. When the mirror is online, leave a comment on the issue indicating the URL of the new mirror. If you know of a mirror to an existing dataset, please leave the mirror URL as a comment. Tools for mirroring data can be found at http://climatemirror.org.
 
 When choosing a dataset:
- * Datasets labeled "[Status: No Mirrors](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors")" are most vulnerable still: 
+ * Datasets labeled "[No Mirrors](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"No Mirrors")" are most vulnerable still: 
  * Datasets with labels for ["Status: One Mirror" or "Status: Offline Mirror"](https://github.com/climate-mirror/datasets/issues?&q=is%3Aissue is%3Aopen sort%3Acreated-asc label%3A"Status%3A No Mirrors") are less vulnerable, but could still use copying.
  * Datasets with labels for "Status: Two or More Mirrors" do not currently need more mirrors in comparison to the others, though if you would prefer to mirror one of these datasets, it is still helpful!
 
