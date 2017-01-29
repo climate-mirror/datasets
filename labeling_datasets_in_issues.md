@@ -8,7 +8,7 @@ would be to have more than one mirror of each of these datasets, and the status 
  * _Status: No Mirrors_: We do not know of any available mirrors for this data
  * _Status: Offline Mirror_: We have reports of an offline mirror for this data, but no URL exists for accessing it. This is its own label because it's less reliable than an online mirror in that it can't be verified.
  * _Status: Single Mirror_: We know of at least one online mirror with a URL.
- * _Status: Two or More Mirrors_: We know of at least two online mirrors with URLs.
+ * _Status: Multiple Mirrors_: We know of at least two online mirrors with URLs.
  
 Ideally, marking any of the status labels except _Status: No Mirrors_ is accompanied by a link or other documentation about where that mirror is located. When the datasets list was imported to GitHub issues, the code that imported marked _Status: One Mirror_ for any dataset previously marked as complete, but that doesn't mean the mirror is *known* yet, so we should look out for any that have this label without a mirror. Some may need to be transitioned to _Status: Offline Mirror_.
 
