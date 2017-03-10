@@ -1,7 +1,7 @@
 # Dataset Mirroring
 This repository is for tracking progress on climate dataset mirroring. It uses this site's [issues tracker](https://github.com/climate-mirror/datasets/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to keep track of progress on mirroring climate datasets. Each dataset will have its own issue for discussion of mirroring, as well as location of mirrors and who is doing the work.
 
-For quickstart information, see below. *For a thorough guide to getting involved, including options besides mirroring data, [see this document](https://github.com/climate-mirror/how-to-help)**
+For quickstart information, see below. **For a thorough guide to getting involved, including options besides mirroring data, [see this document](https://github.com/climate-mirror/how-to-help)**
 
 In this document:
  1. [Mirroring a Dataset](#mirroring-a-dataset)
